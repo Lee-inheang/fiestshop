@@ -1,0 +1,138 @@
+{
+    "Womenlist": [
+        {
+        "class" : "one-piece",
+        "img" : "images/list-img/one-01.jpg",
+        "listreview":"11,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"에블린 오프숄더 샤스커트 롱 원피스 op1",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {   
+        "class" : "one-piece",
+        "img" : "images/list-img/one-02.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"에블린 오프숄더 샤스커트 롱 원피스 op2",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {   
+        "class" : "one-piece",
+        "img" : "images/list-img/one-03.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"에블린 오프숄더 샤스커트 롱 원피스 op3",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "top-t",
+        "img" : "images/list-img/top-01.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"예쁘게 파인 목폴라 상의",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "top-t",
+        "img" : "images/list-img/top-02.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"내가 갖고 싶은 상의2",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "top-t",
+        "img" : "images/list-img/top-03.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"내가 입고 싶은 상의3",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "outer",
+        "img" : "images/list-img/outer-01.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"입고 싶은 아우터01",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "outer",
+        "img" : "images/list-img/outer-02.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"사고 싶은 아우터02",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "outer",
+        "img" : "images/list-img/outer-03.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"제법 멋있는 아우터03",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "bottom",
+        "img" : "images/list-img/bottom-01.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"제법 멋있는 바지01",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "bottom",
+        "img" : "images/list-img/bottom-02.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"제법 멋있는 바지02",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    },
+    {
+        "class" : "bottom",
+        "img" : "images/list-img/bottom-03.jpg",
+        "listreview":"21,000",
+        "listbox":[0,1,2],
+        "listgoodstitle":"제법 멋있는 바지03",
+        "color" : [0,1,2],
+        "orpr": "151,000",
+        "deor":"200,300"
+       
+    }
+
+
+    ]
+}
